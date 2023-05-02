@@ -1,0 +1,1 @@
+alter table students ADD parents text;

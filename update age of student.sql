@@ -1,0 +1,1 @@
+UPDATE students SET stu_age=14 where student_no=9;
